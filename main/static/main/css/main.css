@@ -1,3 +1,19 @@
 body{
-    background-color: aqua;
+    
+}
+
+
+aside{
+    float: left;
+    background: #f2f2dc;
+    width:20%;
+    padding: 2%;
+    height: 100vh;
+    border-right: 8px solid  #dcf2ef;
+}
+
+aside img{
+    float: left;
+    width: 100px;
+    height: 100px;
 }
