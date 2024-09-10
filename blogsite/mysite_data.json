@@ -1,0 +1,1152 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-08-11T11:54:00.158Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Just a text",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-08-13T17:19:49.876Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "The Future of Electric Vehicles: Charging Ahead or Stalling?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-08-13T17:20:07.608Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "The Rise of Remote Work: A Permanent Shift or Temporary Trend?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-08-13T17:20:28.230Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Climate Change and Its Impact on Global Agriculture",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-08-13T17:20:42.739Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Artificial Intelligence: Revolutionizing Healthcare or Raising Ethical Dilemmas?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-08-13T17:20:58.098Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Cryptocurrency: A Bubble Waiting to Burst or the Future of Finance?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-08-13T17:21:16.524Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Just a text",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Publish\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-08-13T17:49:55.465Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Just a text",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-08-13T17:50:01.380Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Just a text",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-08-21T16:08:19.951Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "The Rise of Remote Work: A Permanent Shift or Temporary Trend?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-02T16:05:56.314Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Just a text",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-04T15:18:02.252Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Vasilisa on Just a text",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-04T15:18:07.261Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Vasilisa on Just a text",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-04T15:18:16.446Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Vasilisa on Just a text",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-04T16:12:04.565Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by adnrew on Cryptocurrency: A Bubble Waiting to Burst or the Future of Finance?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-04T16:12:28.460Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by adnrew on Cryptocurrency: A Bubble Waiting to Burst or the Future of Finance?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-05T12:43:00.842Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Artificial Intelligence: Revolutionizing Healthcare or Raising Ethical Dilemmas?",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-09-05T12:43:04.233Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Another post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-09-05T12:43:10.004Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Just a text",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-09-05T12:43:21.162Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "The Future of Electric Vehicles: Charging Ahead or Stalling?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-09-05T12:43:37.826Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Climate Change and Its Impact on Global Agriculture",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-09-05T12:43:48.230Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Cryptocurrency: A Bubble Waiting to Burst or the Future of Finance?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-09-05T13:21:36.798Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "The Future of Electric Vehicles: Charging Ahead or Stalling?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-09-08T14:43:59.140Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "bla bla bla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-09-09T16:07:59.587Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "anoter text",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-09-09T16:09:02.691Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "anoter text",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-09-09T17:51:56.384Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$vh3GzkfxGseJPLKVt3gsEQ$RJYeahcHO+TQ9BWwyLJByeltOLUIuF2nMIc/gikOlMU=",
+    "last_login": "2024-09-02T16:04:31.493Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-08-11T11:45:57.205Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user2",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-13T17:51:31.939Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mgsbrrut1rn3ee07dly9sak7sh9ai3qa",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlneOP5R0nMGa71e4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVZgDj9bgnpwW0H-Y7tNkua27pMSe6KPGiX1znz83K4fwcVe_3WQVntFLtCzF6BR-_IWuMc6MCQR8p20EMJSRMqo0ABWPCjdYYwFF3E-wPB7Tbo:1sl9Xb:mByjuCr-UF1GG2ZiYVcfN99bAijoyrImav-zbhlwNhk",
+    "expire_date": "2024-09-16T16:04:31.498Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wjknbqk50kp80pogttl4b8s4qsqp9rko",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlneOP5R0nMGa71e4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVZgDj9bgnpwW0H-Y7tNkua27pMSe6KPGiX1znz83K4fwcVe_3WQVntFLtCzF6BR-_IWuMc6MCQR8p20EMJSRMqo0ABWPCjdYYwFF3E-wPB7Tbo:1sd72y:5l7N-XSGmCMbwiimoVRva0iY5TYFMS3vZqapJqAMSmU",
+    "expire_date": "2024-08-25T11:47:40.534Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "The Future of Electric Vehicles: Charging Ahead or Stalling?",
+    "slug": "the-future-of-electric-vehicles-charging-ahead-or-stalling",
+    "author": 1,
+    "body": "The electric vehicle (EV) industry is at a critical juncture, poised between rapid growth and potential challenges that could stall its progress. With governments worldwide pushing for greener alternatives, EVs have gained significant momentum, reflected in the surge of sales and the expansion of charging infrastructure. However, concerns around battery technology, charging speeds, and the availability of rare materials necessary for production could hinder this growth.\r\n\r\nAdvancements in solid-state batteries promise longer ranges and faster charging times, but these innovations are still years away from mass production. Furthermore, the environmental impact of mining for lithium and cobalt, crucial for current battery technology, has raised sustainability concerns. As the industry navigates these challenges, collaboration between automakers, governments, and tech companies will be essential to ensure that the transition to electric vehicles remains on track.",
+    "publish": "2024-08-13T17:19:18Z",
+    "created": "2024-08-13T17:19:49.874Z",
+    "updated": "2024-09-05",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "The Rise of Remote Work: A Permanent Shift or Temporary Trend?",
+    "slug": "the-rise-of-remote-work-a-permanent-shift-or-temporary-trend",
+    "author": 1,
+    "body": "The COVID-19 pandemic has dramatically reshaped the global workforce, with remote work becoming the new norm for millions. As companies adapted to lockdowns, many discovered that productivity did not suffer as anticipated, leading to a reevaluation of traditional office spaces. Now, with the pandemic's grip loosening, businesses face a crucial decision: should remote work remain a permanent fixture, or is a return to the office inevitable?\r\n\r\nWhile some companies, like Twitter and Facebook, have embraced permanent remote work options, others argue that in-person collaboration is essential for creativity and team cohesion. The hybrid model, blending remote and office work, is emerging as a popular compromise. However, challenges such as maintaining company culture, managing remote teams, and addressing employee burnout remain significant. The future of work may be flexible, but finding the right balance will be key to long-term success.",
+    "publish": "2024-08-13T17:19:52Z",
+    "created": "2024-08-13T17:20:07.608Z",
+    "updated": "2024-08-21",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Climate Change and Its Impact on Global Agriculture",
+    "slug": "climate-change-and-its-impact-on-global-agriculture",
+    "author": 1,
+    "body": "Climate change is posing an ever-growing threat to global agriculture, with rising temperatures, shifting weather patterns, and more frequent extreme events challenging food production systems. Regions that once enjoyed stable climates for farming are now grappling with droughts, floods, and unseasonable weather, leading to reduced crop yields and increased uncertainty for farmers.\r\n\r\nTo combat these challenges, the agricultural sector is increasingly turning to technology and innovation. Precision farming, which uses data analytics to optimize crop production, and genetically modified crops designed to withstand harsher conditions, are gaining traction. However, these solutions come with their own set of controversies, including concerns about the long-term sustainability and ethics of genetically modified organisms (GMOs).\r\n\r\nAs the global population continues to grow, ensuring food security in the face of climate change will require a multifaceted approach, combining traditional farming wisdom with cutting-edge technology and robust international cooperation.",
+    "publish": "2024-08-13T17:20:13Z",
+    "created": "2024-08-13T17:20:28.229Z",
+    "updated": "2024-09-05",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Cryptocurrency: A Bubble Waiting to Burst or the Future of Finance?",
+    "slug": "cryptocurrency-a-bubble-waiting-to-burst-or-the-future-of-finance",
+    "author": 1,
+    "body": "Cryptocurrency has been one of the most talked-about topics in finance, with proponents hailing it as the future of money and detractors warning of an impending bubble. Bitcoin, Ethereum, and other cryptocurrencies have seen massive price fluctuations, attracting both investors and speculators. But beyond the hype, what is the true potential of cryptocurrency?\r\n\r\nBlockchain technology, which underpins cryptocurrencies, offers the promise of a decentralized financial system, free from the control of central banks and governments. This has the potential to revolutionize everything from banking to supply chain management. However, the lack of regulation, the volatility of prices, and the environmental impact of crypto mining have raised significant concerns.\r\n\r\nAs the market matures, it remains to be seen whether cryptocurrencies will fulfill their promise of transforming finance or if they will be relegated to the annals of financial history as a speculative bubble. The answer may depend on how governments, regulators, and the financial industry respond to the challenges and opportunities posed by this digital revolution.",
+    "publish": "2024-08-13T17:20:44Z",
+    "created": "2024-08-13T18:27:21.300Z",
+    "updated": "2024-09-05",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "bla bla bla",
+    "slug": "bla-bla-bla",
+    "author": 2,
+    "body": "bla bl al bl algb",
+    "publish": "2024-09-08T14:43:11Z",
+    "created": "2024-09-08T14:43:59.136Z",
+    "updated": "2024-09-08",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "anoter text",
+    "slug": "anoter-text",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n*One\r\n*Two\r\n*Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-09-09T16:07:36Z",
+    "created": "2024-09-09T16:07:59.582Z",
+    "updated": "2024-09-09",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 10,
+    "name": "adnrew",
+    "email": "andrew@gmail.com",
+    "body": "badly",
+    "created": "2024-09-04T16:10:59.537Z",
+    "updated": "2024-09-04T16:12:28.459Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 11,
+    "name": "andrew",
+    "email": "avptashka@gmail.com",
+    "body": "its boring",
+    "created": "2024-09-08T14:44:37.023Z",
+    "updated": "2024-09-08T14:44:37.023Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "clasic",
+    "slug": "clasic"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "lituratue",
+    "slug": "lituratue"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "mind",
+    "slug": "mind"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "everising",
+    "slug": "everising"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "crypto",
+    "slug": "crypto"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 12
+  }
+}
+]
