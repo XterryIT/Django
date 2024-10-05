@@ -12,6 +12,7 @@ class Order(models.Model):
     updated = models.DateTimeField(auto_now=True)
     paid = models.BooleanField(default=False)
     stripe_id = models.CharField(max_length=250, blank=True)
+    
     class Meta:
         ordering = ['-created']
         indexes = [
@@ -51,6 +52,9 @@ class OrderItem(models.Model):
         decimal_places=2
     )
     quantity = models.PositiveIntegerField(default=1)
+
+    
+
     def __str__(self):
         return str(self.id)
     def get_cost(self):
