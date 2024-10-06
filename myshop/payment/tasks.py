@@ -5,6 +5,7 @@ from django.contrib.staticfiles import finders
 from django.core.mail import EmailMessage
 from django.template.loader import render_to_string
 from orders.models import Order
+
 @shared_task
 def payment_completed(order_id):
     """
