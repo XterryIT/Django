@@ -4,6 +4,7 @@ from django.views.decorators.http import require_POST
 from .forms import CouponApplyForm
 from .models import Coupon
 
+
 @require_POST
 def coupon_apply(request):
     now = timezone.now()
