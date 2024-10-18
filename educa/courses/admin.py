@@ -6,11 +6,13 @@ from .models import Subject, Course, Module
 class SubjectAdmin(admin.ModelAdmin):
     list_display = ['title', 'slug']
     prepopulated_fields = {'slug': ('title',)}
+
+    
 class ModuleInline(admin.StackedInline):
     model = Module
 
 
-    
+
 @admin.register(Course)
 class CourseAdmin(admin.ModelAdmin):
     list_display = ['title', 'subject', 'created']
